@@ -1,2 +1,1 @@
-# OsunaTania-AnalisisAvanzadoSoftware
-Mapa mental sobre la Ingenieria de Software
+# Analisis Avanzado de Software
