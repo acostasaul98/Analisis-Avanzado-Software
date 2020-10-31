@@ -10,3 +10,4 @@
 6. :book:   [A1.1_TaniaOsuna_INIT](https://github.com/osunatania12/Analisis-Avanzado-Software/blob/master/C2.1_TaniaOsuna.md)
 6. :book:   [C2.2_TaniaOsuna_INIT](https://github.com/osunatania12/Analisis-Avanzado-Software/blob/master/C2.2_TaniaOsuna_INIT.md)
 7. :book:   [A2.1_TaniaOsuna_INIT](https://github.com/osunatania12/Analisis-Avanzado-Software/blob/master/A2.1_TaniaOsuna_INIT.md)
+8. :book:   [C2.3_TaniaOsuna_INIT](https://github.com/osunatania12/Analisis-Avanzado-Software/blob/master/C2.3_TaniaOsuna_INIT.md)
